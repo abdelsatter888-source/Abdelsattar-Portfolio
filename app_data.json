@@ -1,0 +1,45 @@
+{
+  "linkes": {
+    "LinkedIn": "https://www.linkedin.com/in/abd-elsatter-ibrahim-1498b0346?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ",
+    "Github": "",
+    "Facebook": "https://www.facebook.com/share/1FpraDpa1P/",
+    "Whatsapp": "https://wa.me/qr/BEWLEN2BJBGOH1",
+    "Instagram": "https://www.instagram.com/abd_elsattar_8?igsh=dHNzZG96YWpzMmhu",
+    "Resume": "https://abdelsatter888-source.github.io/Abdelsattar-Portfolio/Abdelsattar%20Ibreheim%20-%20CV.pdf"
+  },
+  "works": [
+    {
+      "imageComment": "Academic Project",
+      "projectTitle": "Gaga Cafe",
+      "projectDescription": "Teamed up with a team to transform a non-invasive blood sugar monitoring device into a smart app. The SugarCheck app supports individual accounts for patients and caregivers, displaying real-time measurement results from the device. It leverages Supabase for data storage, includes a Machine Learning model for predicting diabetes, tracks patient medications, and features a chatbot with daily health tips powered by Gemini API.",
+      "projectYear": "2025",
+      "projectRole": "Full-stack Flutter Developer",
+      "url": "https://abdelsatter888-source.github.io/Abdelsattar-Portfolio/images/project1/Gaga%20Cafe.pdf",
+      "images": [
+        "https://abdelsatter888-source.github.io/Abdelsattar-Portfolio/images/project1/Gaga%20Cafe%20(1).jpg",
+        "https://abdelsatter888-source.github.io/Abdelsattar-Portfolio/images/project1/Gaga%20Cafe%20(2).jpg",
+        "https://abdelsatter888-source.github.io/Abdelsattar-Portfolio/images/project1/Gaga%20Cafe%20(3).jpg"
+      ]
+    }
+  ],
+  "capabilities": [
+    "Revit",
+    "Twinmotion",
+    "Presentation Skills",
+    "AutoCAD",
+    "3D max",
+    "Microsoft Office"
+  ],
+  "experience": [
+    {
+      "title": "Freelance Flutter Developer",
+      "date": "Apr 2024 - Present",
+      "location": "Remote | Self-employed",
+      "detailes": [
+        "Implemented real-time data visualization using custom widgets.",
+        "Used APIs and Supabase for backend services.",
+        "Delivered clean, maintainable, and scalable code."
+      ]
+    }
+  ]
+}
