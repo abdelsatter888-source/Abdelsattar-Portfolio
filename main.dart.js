@@ -44516,37 +44516,26 @@ $S:0}
 A.G1.prototype={
 aj(){return new A.a21()}}
 A.a21.prototype={
-L(a4){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a=this,a0=null,a1=a.a.c,a2=$.u7(),a3=A.dD(10)
-a3=A.cr(A.A6(B.ar,A.BA(a1.r[a.d-1],a0)),B.m,a0,new A.cz(a2,a0,a0,a3,a0,a0,B.a2),a0,a0,new A.as(25,35,25,35),1/0)
-a2=$.hY()
+L(a){var s,r,q,p,o,n,m,l=this,k=null,j=l.a.c,i=$.u7(),h=A.dD(10)
+h=A.cr(A.A6(B.ar,A.BA(j.r[l.d-1],k)),B.m,k,new A.cz(i,k,k,h,k,k,B.a2),k,k,new A.as(25,35,25,35),1/0)
+i=$.hY()
 s=A.dD(500)
 r=$.d_()
-s=A.w4(a0,A.cr(A.aC(a1.a,a0,a0,a0,A.b0().$2$color$fontSize(r,10),a0,a0),B.m,a0,new A.cz(a2,a0,a0,s,a0,a0,B.a2),a0,a0,new A.as(8,5,8,5),a0),a0,a0,6,a0,6,a0)
-q=A.qp(a0,a0,a2,a0,a0,a0,a0,a0,a0,a0,a0,a0,B.bh,a0,a0,a0,a0,a0,a0,a0)
+s=A.w4(k,A.cr(A.aC(j.a,k,k,k,A.b0().$2$color$fontSize(r,10),k,k),B.m,k,new A.cz(i,k,k,s,k,k,B.a2),k,k,new A.as(8,5,8,5),k),k,k,6,k,6,k)
+q=A.qp(k,k,i,k,k,k,k,k,k,k,k,k,B.bh,k,k,k,k,k,k,k)
 p=$.eR()
-q=A.Oz(a0,A.i9(B.oo,p,a0,a0),new A.aAF(a),q)
+q=A.Oz(k,A.i9(B.oo,p,k,k),new A.aAF(l),q)
 o=A.aG(20)
-a2=A.qp(a0,a0,a2,a0,a0,a0,a0,a0,a0,a0,a0,a0,B.bh,a0,a0,a0,a0,a0,a0,a0)
+i=A.qp(k,k,i,k,k,k,k,k,k,k,k,k,B.bh,k,k,k,k,k,k,k)
 n=t.p
-a2=A.cr(A.p_(B.cI,A.b([a3,s,A.w4(5,A.cK(A.b([q,o,A.Oz(a0,A.i9(B.op,p,a0,a0),new A.aAG(a,a1),a2)],n),B.z,B.dF,B.ah,0),a0,a0,0,0,a0,a0)],n),B.T,B.cG),B.m,a0,a0,a0,a0,new A.as(15,0,15,0),1/0)
+i=A.cr(A.p_(B.cI,A.b([h,s,A.w4(5,A.cK(A.b([q,o,A.Oz(k,A.i9(B.op,p,k,k),new A.aAG(l,j),i)],n),B.z,B.dF,B.ah,0),k,k,0,0,k,k)],n),B.T,B.cG),B.m,k,k,k,k,new A.as(15,0,15,0),1/0)
 o=A.aG(20)
-q=A.aC(a1.b,a0,a0,a0,A.b0().$3$color$fontSize$fontWeight(r,25,B.c7),a0,a0)
+q=A.aC(j.b,k,k,k,A.b0().$3$color$fontSize$fontWeight(r,25,B.c7),k,k)
 s=A.aG(10)
-a3=A.aC(a1.c,a0,a0,a0,A.b0().$2$color$fontSize($.er(),13),a0,a0)
-m=A.aG(25)
-l=A.aC("PROJECT INFO",a0,a0,a0,A.b0().$3$color$fontSize$fontWeight(r,15,B.c7),a0,a0)
-k=A.aG(5)
-j=A.iP(a0)
-i=A.aG(5)
-h=A.cK(A.b([A.aC("Year",a0,a0,a0,A.b0().$2$color$fontSize(r,15),a0,a0),A.aC(a1.d,a0,a0,a0,A.b0().$2$color$fontSize(r,14),a0,a0)],n),B.z,B.b9,B.v,0)
-g=A.aG(5)
-f=A.iP(a0)
-e=A.aG(5)
-r=A.cK(A.b([A.aC("Role",a0,a0,a0,A.b0().$2$color$fontSize(r,15),a0,a0),A.aC(a1.e,a0,a0,a0,A.b0().$2$color$fontSize(r,15),a0,a0)],n),B.z,B.b9,B.v,0)
-d=A.aG(5)
-c=A.iP(a0)
-b=A.aG(20)
-return A.bW(A.b([a2,o,A.bW(A.b([q,s,a3,m,l,k,j,i,h,g,f,e,r,d,c,b,a1.f!==""?A.qX(!1,a0,!0,A.bW(A.b([A.cK(A.b([A.aC("SEE PROJECT DETAILS".toUpperCase(),a0,a0,a0,A.b0().$3$color$fontSize$fontWeight(p,13,B.aa),a0,a0),A.dp(a0,a0,8),A.i9(B.h9,p,a0,20)],n),B.z,B.t,B.ah,0),A.aG(5),A.cr(a0,B.m,a0,new A.cz(p,a0,a0,A.dD(600),a0,a0,B.a2),2,a0,a0,170)],n),B.z,B.t,B.ah,0),a0,!0,a0,a0,a0,a0,a0,a0,a0,a0,a0,new A.aAH(a1),a0,a0,a0,a0,a0):A.SC()],n),B.K,B.t,B.v,0)],n),B.z,B.t,B.v,0)}}
+h=A.aC(j.c,k,k,k,A.b0().$2$color$fontSize($.er(),13),k,k)
+m=A.aG(15)
+p=j.f!==""?A.qX(!1,k,!0,A.bW(A.b([A.cK(A.b([A.aC("SEE PROJECT DETAILS".toUpperCase(),k,k,k,A.b0().$3$color$fontSize$fontWeight(p,13,B.aa),k,k),A.dp(k,k,8),A.i9(B.h9,p,k,20)],n),B.z,B.t,B.ah,0),A.aG(5),A.cr(k,B.m,k,new A.cz(p,k,k,A.dD(600),k,k,B.a2),2,k,k,170)],n),B.z,B.t,B.ah,0),k,!0,k,k,k,k,k,k,k,k,k,new A.aAH(j),k,k,k,k,k):A.SC()
+return A.bW(A.b([i,o,A.bW(A.b([q,s,h,m,p,A.aG(25),A.aC("PROJECT INFO",k,k,k,A.b0().$3$color$fontSize$fontWeight(r,15,B.c7),k,k),A.aG(5),A.iP(k),A.aG(5),A.cK(A.b([A.aC("Year",k,k,k,A.b0().$2$color$fontSize(r,15),k,k),A.aC(j.d,k,k,k,A.b0().$2$color$fontSize(r,14),k,k)],n),B.z,B.b9,B.v,0),A.aG(5),A.iP(k),A.aG(5),A.cK(A.b([A.aC("Role",k,k,k,A.b0().$2$color$fontSize(r,15),k,k),A.aC(j.e,k,k,k,A.b0().$2$color$fontSize(r,15),k,k)],n),B.z,B.b9,B.v,0),A.aG(5),A.iP(k)],n),B.K,B.t,B.v,0)],n),B.z,B.t,B.v,0)}}
 A.aAF.prototype={
 $0(){var s=this.a
 s.ag(new A.aAE(s))},
@@ -44571,40 +44560,29 @@ $S:0}
 A.G2.prototype={
 aj(){return new A.a22()}}
 A.a22.prototype={
-L(a3){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a=this,a0=null,a1=t.w,a2=A.bF(a3,a0,a1).w
-a1=A.bF(a3,a0,a1).w
-s=a.a.c
+L(a){var s,r,q,p,o,n,m,l=this,k=null,j=t.w,i=A.bF(a,k,j).w
+j=A.bF(a,k,j).w
+s=l.a.c
 r=$.u7()
 q=A.dD(10)
-a2=A.cr(A.A6(B.ar,A.BA(s.r[a.d-1],a0)),B.m,a0,new A.cz(r,a0,a0,q,a0,a0,B.a2),a1.a.b/1.5,a0,new A.as(30,40,30,40),a2.a.a/1.5)
-a1=$.hY()
+i=A.cr(A.A6(B.ar,A.BA(s.r[l.d-1],k)),B.m,k,new A.cz(r,k,k,q,k,k,B.a2),j.a.b/1.5,k,new A.as(30,40,30,40),i.a.a/1.5)
+j=$.hY()
 q=A.dD(500)
 r=$.d_()
-q=A.w4(a0,A.cr(A.aC(s.a,a0,a0,a0,A.b0().$2$color$fontSize(r,12),a0,a0),B.m,a0,new A.cz(a1,a0,a0,q,a0,a0,B.a2),a0,a0,new A.as(10,8,10,8),a0),a0,a0,6,a0,6,a0)
-p=A.qp(a0,a0,a1,a0,a0,a0,a0,a0,a0,a0,a0,a0,new A.as(2,2,2,2),a0,a0,a0,a0,a0,a0,a0)
+q=A.w4(k,A.cr(A.aC(s.a,k,k,k,A.b0().$2$color$fontSize(r,12),k,k),B.m,k,new A.cz(j,k,k,q,k,k,B.a2),k,k,new A.as(10,8,10,8),k),k,k,6,k,6,k)
+p=A.qp(k,k,j,k,k,k,k,k,k,k,k,k,new A.as(2,2,2,2),k,k,k,k,k,k,k)
 o=$.eR()
-p=A.Oz(a0,A.i9(B.oo,o,a0,a0),new A.aAK(a),p)
+p=A.Oz(k,A.i9(B.oo,o,k,k),new A.aAK(l),p)
 n=A.aG(20)
-a1=A.qp(a0,a0,a1,a0,a0,a0,a0,a0,a0,a0,a0,a0,new A.as(2,2,2,2),a0,a0,a0,a0,a0,a0,a0)
+j=A.qp(k,k,j,k,k,k,k,k,k,k,k,k,new A.as(2,2,2,2),k,k,k,k,k,k,k)
 m=t.p
-a1=A.a9p(A.p_(B.cI,A.b([a2,q,A.w4(5,A.cK(A.b([p,n,A.Oz(a0,A.i9(B.op,o,a0,a0),new A.aAL(a,s),a1)],m),B.z,B.dF,B.ah,0),a0,a0,0,0,a0,a0)],m),B.T,B.cG))
-n=A.aC(s.b,a0,a0,a0,A.b0().$3$color$fontSize$fontWeight(r,30,B.c7),a0,a0)
+j=A.a9p(A.p_(B.cI,A.b([i,q,A.w4(5,A.cK(A.b([p,n,A.Oz(k,A.i9(B.op,o,k,k),new A.aAL(l,s),j)],m),B.z,B.dF,B.ah,0),k,k,0,0,k,k)],m),B.T,B.cG))
+n=A.aC(s.b,k,k,k,A.b0().$3$color$fontSize$fontWeight(r,30,B.c7),k,k)
 p=A.aG(10)
-q=A.aC(s.c,a0,a0,a0,A.b0().$2$color$fontSize($.er(),14),a0,a0)
-a2=A.aG(25)
-l=A.aC("PROJECT INFO",a0,a0,a0,A.b0().$3$color$fontSize$fontWeight(r,16,B.c7),a0,a0)
-k=A.aG(5)
-j=A.iP(a0)
-i=A.aG(5)
-h=A.cK(A.b([A.aC("Year",a0,a0,a0,A.b0().$2$color$fontSize(r,16),a0,a0),A.aC(s.d,a0,a0,a0,A.b0().$2$color$fontSize(r,16),a0,a0)],m),B.z,B.b9,B.v,0)
-g=A.aG(5)
-f=A.iP(a0)
-e=A.aG(5)
-r=A.cK(A.b([A.aC("Role",a0,a0,a0,A.b0().$2$color$fontSize(r,16),a0,a0),A.aC(s.e,a0,a0,a0,A.b0().$2$color$fontSize(r,16),a0,a0)],m),B.z,B.b9,B.v,0)
-d=A.aG(5)
-c=A.iP(a0)
-b=A.aG(30)
-return new A.dm(B.Ic,A.cK(A.b([a1,A.a9p(A.dp(A.bW(A.b([n,p,q,a2,l,k,j,i,h,g,f,e,r,d,c,b,s.f!==""?A.qX(!1,a0,!0,A.bW(A.b([A.cK(A.b([A.aC("SEE Project details".toUpperCase(),a0,a0,a0,A.b0().$3$color$fontSize$fontWeight(o,13,B.aa),a0,a0),A.dp(a0,a0,8),A.i9(B.h9,o,a0,20)],m),B.z,B.t,B.ah,0),A.aG(5),A.cr(a0,B.m,a0,new A.cz(o,a0,a0,A.dD(600),a0,a0,B.a2),2,a0,a0,170)],m),B.z,B.t,B.ah,0),a0,!0,a0,a0,a0,a0,a0,a0,a0,a0,a0,new A.aAM(s),a0,a0,a0,a0,a0):A.SC()],m),B.K,B.t,B.v,0),a0,a0))],m),B.z,B.b9,B.v,45),a0)}}
+q=A.aC(s.c,k,k,k,A.b0().$2$color$fontSize($.er(),14),k,k)
+i=A.aG(15)
+o=s.f!==""?A.qX(!1,k,!0,A.bW(A.b([A.cK(A.b([A.aC("SEE Project details".toUpperCase(),k,k,k,A.b0().$3$color$fontSize$fontWeight(o,13,B.aa),k,k),A.dp(k,k,8),A.i9(B.h9,o,k,20)],m),B.z,B.t,B.ah,0),A.aG(5),A.cr(k,B.m,k,new A.cz(o,k,k,A.dD(600),k,k,B.a2),2,k,k,170)],m),B.z,B.t,B.ah,0),k,!0,k,k,k,k,k,k,k,k,k,new A.aAM(s),k,k,k,k,k):A.SC()
+return new A.dm(B.Ic,A.cK(A.b([j,A.a9p(A.dp(A.bW(A.b([n,p,q,i,o,A.aG(25),A.aC("PROJECT INFO",k,k,k,A.b0().$3$color$fontSize$fontWeight(r,16,B.c7),k,k),A.aG(5),A.iP(k),A.aG(5),A.cK(A.b([A.aC("Year",k,k,k,A.b0().$2$color$fontSize(r,16),k,k),A.aC(s.d,k,k,k,A.b0().$2$color$fontSize(r,16),k,k)],m),B.z,B.b9,B.v,0),A.aG(5),A.iP(k),A.aG(5),A.cK(A.b([A.aC("Role",k,k,k,A.b0().$2$color$fontSize(r,16),k,k),A.aC(s.e,k,k,k,A.b0().$2$color$fontSize(r,16),k,k)],m),B.z,B.b9,B.v,0),A.aG(5),A.iP(k)],m),B.K,B.t,B.v,0),k,k))],m),B.z,B.b9,B.v,45),k)}}
 A.aAK.prototype={
 $0(){var s=this.a
 s.ag(new A.aAJ(s))},

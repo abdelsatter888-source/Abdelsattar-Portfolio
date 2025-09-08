@@ -12,7 +12,7 @@
       "imageComment": "Academic Project",
       "projectTitle": "Victoria Azur Hotel",
       "projectDescription": "Teamed up with a team to transform a non-invasive blood sugar monitoring device into a smart app. The SugarCheck app supports individual accounts for patients and caregivers, displaying real-time measurement results from the device. It leverages Supabase for data storage, includes a Machine Learning model for predicting diabetes, tracks patient medications, and features a chatbot with daily health tips powered by Gemini API.",
-      "projectYear": "2025",
+      "projectYear": "2024",
       "projectRole": "Technical and 3D Visualize Architect",
       "url": "https://abdelsatter888-source.github.io/Abdelsattar-Portfolio/images/project2/Azur.pdf",
       "images": [
@@ -22,7 +22,19 @@
     },
     {
       "imageComment": "Academic Project",
-      "projectTitle": "Gaga Cafe",
+      "projectTitle": "Working Drawing of Mall",
+      "projectDescription": "Teamed up with a team to transform a non-invasive blood sugar monitoring device into a smart app. The SugarCheck app supports individual accounts for patients and caregivers, displaying real-time measurement results from the device. It leverages Supabase for data storage, includes a Machine Learning model for predicting diabetes, tracks patient medications, and features a chatbot with daily health tips powered by Gemini API.",
+      "projectYear": "2024",
+      "projectRole": "Technical and 3D Visualize Architect",
+      "url": "https://abdelsatter888-source.github.io/Abdelsattar-Portfolio/images/project3/Mall.pdf",
+      "images": [
+        "https://abdelsatter888-source.github.io/Abdelsattar-Portfolio/images/project3/Mall%20(1).jpg",
+        "https://abdelsatter888-source.github.io/Abdelsattar-Portfolio/images/project3/Mall%20(2).jpg"
+      ]
+    },
+    {
+      "imageComment": "Academic Project",
+      "projectTitle": "Gaga Cafe & Resturant",
       "projectDescription": "Teamed up with a team to transform a non-invasive blood sugar monitoring device into a smart app. The SugarCheck app supports individual accounts for patients and caregivers, displaying real-time measurement results from the device. It leverages Supabase for data storage, includes a Machine Learning model for predicting diabetes, tracks patient medications, and features a chatbot with daily health tips powered by Gemini API.",
       "projectYear": "2025",
       "projectRole": "Technical and 3D Visualize Architect",
@@ -31,18 +43,6 @@
         "https://abdelsatter888-source.github.io/Abdelsattar-Portfolio/images/project1/Gaga%20Cafe%20(1).jpg",
         "https://abdelsatter888-source.github.io/Abdelsattar-Portfolio/images/project1/Gaga%20Cafe%20(2).jpg",
         "https://abdelsatter888-source.github.io/Abdelsattar-Portfolio/images/project1/Gaga%20Cafe%20(3).jpg"
-      ]
-    },
-    {
-      "imageComment": "Academic Project",
-      "projectTitle": "Working Drawing of Mall",
-      "projectDescription": "Teamed up with a team to transform a non-invasive blood sugar monitoring device into a smart app. The SugarCheck app supports individual accounts for patients and caregivers, displaying real-time measurement results from the device. It leverages Supabase for data storage, includes a Machine Learning model for predicting diabetes, tracks patient medications, and features a chatbot with daily health tips powered by Gemini API.",
-      "projectYear": "2025",
-      "projectRole": "Technical and 3D Visualize Architect",
-      "url": "https://abdelsatter888-source.github.io/Abdelsattar-Portfolio/images/project3/Mall.pdf",
-      "images": [
-        "https://abdelsatter888-source.github.io/Abdelsattar-Portfolio/images/project3/Mall%20(1).jpg",
-        "https://abdelsatter888-source.github.io/Abdelsattar-Portfolio/images/project3/Mall%20(2).jpg"
       ]
     },
     {
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "imageComment": "Academic Project",
+      "imageComment": "Freelance Project",
       "projectTitle": "Kids Playroom",
       "projectDescription": "Teamed up with a team to transform a non-invasive blood sugar monitoring device into a smart app. The SugarCheck app supports individual accounts for patients and caregivers, displaying real-time measurement results from the device. It leverages Supabase for data storage, includes a Machine Learning model for predicting diabetes, tracks patient medications, and features a chatbot with daily health tips powered by Gemini API.",
       "projectYear": "2025",
@@ -72,7 +72,7 @@
       ]
     },
     {
-      "imageComment": "Academic Project",
+      "imageComment": "Freelance Project",
       "projectTitle": "Modern Kitchen",
       "projectDescription": "Teamed up with a team to transform a non-invasive blood sugar monitoring device into a smart app. The SugarCheck app supports individual accounts for patients and caregivers, displaying real-time measurement results from the device. It leverages Supabase for data storage, includes a Machine Learning model for predicting diabetes, tracks patient medications, and features a chatbot with daily health tips powered by Gemini API.",
       "projectYear": "2025",
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "imageComment": "Academic Project",
+      "imageComment": "Freelance Project",
       "projectTitle": "Luxury Bathroom",
       "projectDescription": "Teamed up with a team to transform a non-invasive blood sugar monitoring device into a smart app. The SugarCheck app supports individual accounts for patients and caregivers, displaying real-time measurement results from the device. It leverages Supabase for data storage, includes a Machine Learning model for predicting diabetes, tracks patient medications, and features a chatbot with daily health tips powered by Gemini API.",
       "projectYear": "2025",
