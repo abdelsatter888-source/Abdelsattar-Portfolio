@@ -24,7 +24,7 @@
     {
       "imageComment": "Academic Project",
       "projectTitle": "Working Drawing of Mall",
-      "projectDescription": "A commercial, residential and medical Mall project Executive and Detailed Designs This project contains 12 floors divided into four uses:\n-Three floors of basement and parking garage.\n-Three floors commercial mall.\n-Three residential floors\n-Three medical floors.\n\nTools Used: Revit | Twinmotion | Photoshop.",
+      "projectDescription": "A commercial, residential and medical Mall project Executive and Detailed Designs This project contains 12 floors divided into four uses:\n-Three floors of basement and parking garage.\n-Three floors commercial mall.\n-Three residential floors\n-Three medical floors.",
       "projectYear": "2024",
       "projectRole": "Technical, 3D Modeling, and Visualization",
       "projectTools": "Revit | Twinmotion | Photoshop",
@@ -37,7 +37,7 @@
     {
       "imageComment": "Academic Project",
       "projectTitle": "Gaga Cafe & Resturant",
-      "projectDescription": "Teamed up with a team to transform a non-invasive blood sugar monitoring device into a smart app. The SugarCheck app supports individual accounts for patients and caregivers, displaying real-time measurement results from the device. It leverages Supabase for data storage, includes a Machine Learning model for predicting diabetes, tracks patient medications, and features a chatbot with daily health tips powered by Gemini API.",
+      "projectDescription": "A contemporary café and restaurant design that blends modern elegance with a welcoming atmosphere. Clean architectural lines, warm lighting, and natural textures create a stylish yet comfortable space for social gatherings and dining. The design emphasizes open layouts.",
       "projectYear": "2025",
       "projectRole": "Technical and 3D Visualize Architect",
       "projectTools": "Revit | Twinmotion | Photoshop",
@@ -51,7 +51,7 @@
     {
       "imageComment": "Graduation Project",
       "projectTitle": "Journey of Knowledge",
-      "projectDescription": "Teamed up with a team to transform a non-invasive blood sugar monitoring device into a smart app. The SugarCheck app supports individual accounts for patients and caregivers, displaying real-time measurement results from the device. It leverages Supabase for data storage, includes a Machine Learning model for predicting diabetes, tracks patient medications, and features a chatbot with daily health tips powered by Gemini API.",
+      "projectDescription": "The title through which I aimed to build a true architectural experience for students, one that goes beyond form into meaning.\nThe concept is based on viewing the university as a continuous path of knowledge  from the first step on campus to specialization and innovation.",
       "projectYear": "2025",
       "projectRole": "Technical and 3D Visualize Architect",
       "projectTools": "Revit | Twinmotion | Photoshop",
@@ -63,11 +63,11 @@
     },
     {
       "imageComment": "Freelance Project",
-      "projectTitle": "Kids Playroom",
-      "projectDescription": "Teamed up with a team to transform a non-invasive blood sugar monitoring device into a smart app. The SugarCheck app supports individual accounts for patients and caregivers, displaying real-time measurement results from the device. It leverages Supabase for data storage, includes a Machine Learning model for predicting diabetes, tracks patient medications, and features a chatbot with daily health tips powered by Gemini API.",
+      "projectTitle": "Children's Interior Design ",
+      "projectDescription": "A vibrant children's games room design that combines playful creativity with functionality and comfort. Bright colors, soft textures, and interactive zones create an engaging environment where kids can explore, learn, and play safely.",
       "projectYear": "2025",
       "projectRole": "Technical and 3D Visualize Architect",
-      "projectTools": "Revit | Twinmotion | Photoshop",
+      "projectTools": "3ds Max | Vray Render | Photoshop",
       "url": "",
       "images": [
         "https://abdelsatter888-source.github.io/Abdelsattar-Portfolio/images/project5/Children%20(1).jpg",
@@ -78,11 +78,11 @@
     },
     {
       "imageComment": "Freelance Project",
-      "projectTitle": "Modern Kitchen",
-      "projectDescription": "Teamed up with a team to transform a non-invasive blood sugar monitoring device into a smart app. The SugarCheck app supports individual accounts for patients and caregivers, displaying real-time measurement results from the device. It leverages Supabase for data storage, includes a Machine Learning model for predicting diabetes, tracks patient medications, and features a chatbot with daily health tips powered by Gemini API.",
+      "projectTitle": "Kitchen Interior Design",
+      "projectDescription": "A modern simple kitchen design that embraces clean lines, neutral tones, and functional elegance. Smooth matte finishes and natural textures set the stage for a timeless aesthetic, while integrated storage solutions and minimalist cabinetry ensure a clutter-free environment.",
       "projectYear": "2025",
       "projectRole": "Technical and 3D Visualize Architect",
-      "projectTools": "Revit | Twinmotion | Photoshop",
+      "projectTools": "R3ds Max | Vray Render | Photoshop",
       "url": "",
       "images": [
         "https://abdelsatter888-source.github.io/Abdelsattar-Portfolio/images/project6/kitchen%20(1).jpg",
@@ -96,11 +96,11 @@
     },
     {
       "imageComment": "Freelance Project",
-      "projectTitle": "Luxury Bathroom",
-      "projectDescription": "Teamed up with a team to transform a non-invasive blood sugar monitoring device into a smart app. The SugarCheck app supports individual accounts for patients and caregivers, displaying real-time measurement results from the device. It leverages Supabase for data storage, includes a Machine Learning model for predicting diabetes, tracks patient medications, and features a chatbot with daily health tips powered by Gemini API.",
+      "projectTitle": "Bathroom Interior Design",
+      "projectDescription": "A modern luxury bathroom design that combines sleek minimalism with a refined sense of elegance. Dark marble surfaces with natural veining set the tone, complemented by warm concealed lighting that enhances textures and creates a relaxing atmosphere.",
       "projectYear": "2025",
       "projectRole": "Technical and 3D Visualize Architect",
-      "projectTools": "Revit | Twinmotion | Photoshop",
+      "projectTools": "3ds Max | Vray Render | Photoshop",
       "url": "",
       "images": [
         "https://abdelsatter888-source.github.io/Abdelsattar-Portfolio/images/project7/bathroom%20(1).jpg",
