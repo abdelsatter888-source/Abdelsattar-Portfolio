@@ -11,9 +11,10 @@
     {
       "imageComment": "Academic Project",
       "projectTitle": "Victoria Azur Hotel",
-      "projectDescription": "Redesign The Hostrical Hotel Project Azur is a 3 star Hotel located in a crossroad between El Gomhoria St., & NajeebEl- Rayhany St., Victoria Cairo 'which is based on the Classical Archtiecture and it's Downtown, Cairo' Khedive a Historical Region as the Art of Sustainability Our Goal is to Re-Design The Hotel Architecture is known to adapt to present As changes.\n\nTools Used: Revit | Twinmotion | Photoshop.",
+      "projectDescription": "Redesign The Hostrical Hotel Project Azur is a 3 star Hotel located in a crossroad between El Gomhoria St., & NajeebEl- Rayhany St., Victoria Cairo 'which is based on the Classical Archtiecture and it's Downtown, Cairo' Khedive a Historical Region as the Art of Sustainability Our Goal is to Re-Design The Hotel Architecture is known to adapt to present As changes.",
       "projectYear": "2024",
       "projectRole": "Technical, 3D Modeling, and Visualization",
+      "projectTools": "Revit | Twinmotion | Photoshop",
       "url": "https://abdelsatter888-source.github.io/Abdelsattar-Portfolio/images/project2/Azur.pdf",
       "images": [
         "https://abdelsatter888-source.github.io/Abdelsattar-Portfolio/images/project2/Azur%20(1).jpg",
@@ -26,6 +27,7 @@
       "projectDescription": "A commercial, residential and medical Mall project Executive and Detailed Designs This project contains 12 floors divided into four uses:\n-Three floors of basement and parking garage.\n-Three floors commercial mall.\n-Three residential floors\n-Three medical floors.\n\nTools Used: Revit | Twinmotion | Photoshop.",
       "projectYear": "2024",
       "projectRole": "Technical, 3D Modeling, and Visualization",
+      "projectTools": "Revit | Twinmotion | Photoshop",
       "url": "https://abdelsatter888-source.github.io/Abdelsattar-Portfolio/images/project3/Mall.pdf",
       "images": [
         "https://abdelsatter888-source.github.io/Abdelsattar-Portfolio/images/project3/Mall%20(1).jpg",
@@ -38,6 +40,7 @@
       "projectDescription": "Teamed up with a team to transform a non-invasive blood sugar monitoring device into a smart app. The SugarCheck app supports individual accounts for patients and caregivers, displaying real-time measurement results from the device. It leverages Supabase for data storage, includes a Machine Learning model for predicting diabetes, tracks patient medications, and features a chatbot with daily health tips powered by Gemini API.",
       "projectYear": "2025",
       "projectRole": "Technical and 3D Visualize Architect",
+      "projectTools": "Revit | Twinmotion | Photoshop",
       "url": "https://abdelsatter888-source.github.io/Abdelsattar-Portfolio/images/project1/Gaga%20Cafe.pdf",
       "images": [
         "https://abdelsatter888-source.github.io/Abdelsattar-Portfolio/images/project1/Gaga%20Cafe%20(1).jpg",
@@ -51,6 +54,7 @@
       "projectDescription": "Teamed up with a team to transform a non-invasive blood sugar monitoring device into a smart app. The SugarCheck app supports individual accounts for patients and caregivers, displaying real-time measurement results from the device. It leverages Supabase for data storage, includes a Machine Learning model for predicting diabetes, tracks patient medications, and features a chatbot with daily health tips powered by Gemini API.",
       "projectYear": "2025",
       "projectRole": "Technical and 3D Visualize Architect",
+      "projectTools": "Revit | Twinmotion | Photoshop",
       "url": "https://abdelsatter888-source.github.io/Abdelsattar-Portfolio/images/project4/journey.pdf",
       "images": [
         "https://abdelsatter888-source.github.io/Abdelsattar-Portfolio/images/project4/journey%20(1).jpg",
@@ -63,6 +67,7 @@
       "projectDescription": "Teamed up with a team to transform a non-invasive blood sugar monitoring device into a smart app. The SugarCheck app supports individual accounts for patients and caregivers, displaying real-time measurement results from the device. It leverages Supabase for data storage, includes a Machine Learning model for predicting diabetes, tracks patient medications, and features a chatbot with daily health tips powered by Gemini API.",
       "projectYear": "2025",
       "projectRole": "Technical and 3D Visualize Architect",
+      "projectTools": "Revit | Twinmotion | Photoshop",
       "url": "",
       "images": [
         "https://abdelsatter888-source.github.io/Abdelsattar-Portfolio/images/project5/Children%20(1).jpg",
@@ -77,6 +82,7 @@
       "projectDescription": "Teamed up with a team to transform a non-invasive blood sugar monitoring device into a smart app. The SugarCheck app supports individual accounts for patients and caregivers, displaying real-time measurement results from the device. It leverages Supabase for data storage, includes a Machine Learning model for predicting diabetes, tracks patient medications, and features a chatbot with daily health tips powered by Gemini API.",
       "projectYear": "2025",
       "projectRole": "Technical and 3D Visualize Architect",
+      "projectTools": "Revit | Twinmotion | Photoshop",
       "url": "",
       "images": [
         "https://abdelsatter888-source.github.io/Abdelsattar-Portfolio/images/project6/kitchen%20(1).jpg",
@@ -94,6 +100,7 @@
       "projectDescription": "Teamed up with a team to transform a non-invasive blood sugar monitoring device into a smart app. The SugarCheck app supports individual accounts for patients and caregivers, displaying real-time measurement results from the device. It leverages Supabase for data storage, includes a Machine Learning model for predicting diabetes, tracks patient medications, and features a chatbot with daily health tips powered by Gemini API.",
       "projectYear": "2025",
       "projectRole": "Technical and 3D Visualize Architect",
+      "projectTools": "Revit | Twinmotion | Photoshop",
       "url": "",
       "images": [
         "https://abdelsatter888-source.github.io/Abdelsattar-Portfolio/images/project7/bathroom%20(1).jpg",
